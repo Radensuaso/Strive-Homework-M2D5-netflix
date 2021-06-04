@@ -15,3 +15,13 @@ footer {
   background-color: #141414;
   color: #808080;
 }
+#footer-container {
+  padding-left: 150px !important;
+  padding-right: 150px !important;
+}
+p {
+  font-size: 13px;
+}
+#copyright {
+  font-size: 11px;
+}
