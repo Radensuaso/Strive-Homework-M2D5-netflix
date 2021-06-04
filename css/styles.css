@@ -1,5 +1,6 @@
 body {
   background-color: #141414;
+  color: white;
 }
 
 .bg-dark-netflix {
@@ -7,5 +8,5 @@ body {
 }
 
 #logo-navbar {
-  width: 100px;
+  width: 70px;
 }
