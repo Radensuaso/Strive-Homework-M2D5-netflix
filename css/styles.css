@@ -10,3 +10,8 @@ body {
 #logo-navbar {
   width: 70px;
 }
+
+footer {
+  background-color: #141414;
+  color: #808080;
+}
