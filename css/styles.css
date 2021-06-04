@@ -50,7 +50,11 @@ nav {
 }
 #div-Icons {
   position: absolute;
-  top: 0;
-  right: 0;
-  display: inline-block;
+  top: 0px;
+  right: 0px;
+  color: #808080;
+  width: 107px;
+}
+#row-icons {
+  position: relative;
 }
