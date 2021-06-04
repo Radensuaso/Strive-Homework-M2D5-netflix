@@ -22,7 +22,7 @@ p {
   font-size: 11px;
 }
 
-#service-code {
+.service-code {
   border: 1px solid #808080;
   background-color: #141414;
   color: #808080;
@@ -60,7 +60,7 @@ nav {
 }
 
 #edit-profile-title {
-  border-bottom: 1px solid #808080;
+  border-bottom: 1px solid #dddddd;
 }
 
 h1 {
@@ -70,12 +70,20 @@ h1 {
 #strive-student {
   background-color: #666;
   color: white;
-  padding: 6px;
-  font-size: 35px;
+  padding: 0px;
+  font-size: 25px;
   margin-right: 50px;
 }
 
 #language {
   color: white;
-  font-size: 35px;
+  font-size: 25px;
+}
+.m-bottom {
+  border-bottom: 1px solid #dddddd;
+}
+
+#maturity-ratings {
+  background-color: #333333;
+  margin-right: 160px;
 }
