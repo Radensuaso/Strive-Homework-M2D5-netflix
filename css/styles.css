@@ -58,3 +58,24 @@ nav {
 #row-icons {
   position: relative;
 }
+
+#edit-profile-title {
+  border-bottom: 1px solid #808080;
+}
+
+h1 {
+  font-size: 64.36px;
+}
+
+#strive-student {
+  background-color: #666;
+  color: white;
+  padding: 6px;
+  font-size: 35px;
+  margin-right: 50px;
+}
+
+#language {
+  color: white;
+  font-size: 35px;
+}
